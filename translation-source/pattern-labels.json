@@ -1,0 +1,9263 @@
+[
+  {
+    "assetId": "11246",
+    "name": "Apron Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da camisa"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Undershirt para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Cinto de Avental para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Cinto de Avental"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Cinta do corpo para a direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da camisa"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Undershirt para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Cinto de Avental para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Cinto de Avental"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinta do corpo para a direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11247",
+    "name": "Aurora Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11248",
+    "name": "Belladonna Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bojo Interno do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bojo Interno do Corpo Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bojo Externo do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bojo Externo do Corpo Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Ombro esquerdo do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Ombro esquerdo do corpo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Ombro esquerdo do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Ombro direito do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Ombro do corpo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Ombro direito"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Alça Frontal do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Cinta do corpo para a direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11249",
+    "name": "Belted Jacket Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Cinto de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Cinto Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Casaco para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Casaco Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Casaco Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Casaco à esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Casaco à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Casaco para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Casaco Direita Frente"
+      }
+    ]
+  },
+  {
+    "assetId": "11250",
+    "name": "Black Widow Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11251",
+    "name": "Bolero Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bolero Voltar"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente Bolero Ribbon"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bolero Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bolero Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bolero Ribbon Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bolero Ribbon Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bolero Fita Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Frente do Corpo Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11252",
+    "name": "Bustier Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bojo Inferior Interno do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bojo Inferior Interno do Corpo Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bojo Inferior Externo do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bojo Inferior Externo do Corpo Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Parte Superior do Bojo do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Parte Superior do Bojo do Corpo Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bojo Inferior Interno do Corpo Esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bojo Inferior Interno do Corpo Direito"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bojo Inferior Externo do Corpo Esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bojo Inferior Externo do Corpo Direito"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Parte Superior do Bojo do Corpo Esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Parte Superior do Bojo do Corpo Direito"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Cinta do corpo para a direita"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Bojo Inferior Interno do Corpo Esquerdo"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Bojo Inferior Interno do Corpo Direito"
+      },
+      {
+        "variant": 2,
+        "panel": 5,
+        "label": "Bojo Inferior Externo do Corpo Esquerdo"
+      },
+      {
+        "variant": 2,
+        "panel": 6,
+        "label": "Bojo Inferior Externo do Corpo Direito"
+      },
+      {
+        "variant": 2,
+        "panel": 7,
+        "label": "Parte Superior do Bojo do Corpo Esquerdo"
+      },
+      {
+        "variant": 2,
+        "panel": 8,
+        "label": "Parte Superior do Bojo do Corpo Direito"
+      },
+      {
+        "variant": 2,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 10,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 2,
+        "panel": 11,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 2,
+        "panel": 12,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 2,
+        "panel": 13,
+        "label": "Cinta do corpo para a direita"
+      },
+      {
+        "variant": 2,
+        "panel": 14,
+        "label": "Fita da alça do corpo à direita"
+      },
+      {
+        "variant": 2,
+        "panel": 15,
+        "label": "Fita da Alça do Corpo Esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "11253",
+    "name": "Carmilla Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11254",
+    "name": "Cinched Blouse",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11255",
+    "name": "Cinched Keyhole Blouse",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do colar do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Colar Corporal para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente do Corpo Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11256",
+    "name": "Coat Dress Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Carcela de Botões do Corpete"
+      }
+    ]
+  },
+  {
+    "assetId": "11257",
+    "name": "Corset Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Fita Traseira do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11258",
+    "name": "Delilah Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Babado Frontal do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Pala das Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Pala do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Pala do Corpo Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11259",
+    "name": "Dirndl",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Dirndl Voltar"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Dirndl Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Dirndl Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Dirndl para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Dirndl Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Dirndl Recuar Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Dirndl Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Cinta Dirndl Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Correia Dirndl Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Costas da Camiseta Interna do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente da Camiseta Interna do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Babado Traseiro do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Babado Frontal do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11260",
+    "name": "Double Breasted Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11261",
+    "name": "Elevated Dirndl",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Dirndl Voltar"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Dirndl Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Dirndl Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Dirndl para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Dirndl Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Dirndl Recuar Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Dirndl Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Cinta Dirndl Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Correia Dirndl Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Costas da Camiseta Interna do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente da Camiseta Interna do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Dirndl Voltar"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Dirndl Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Dirndl Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Dirndl para a esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Dirndl Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Dirndl Recuar Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Dirndl Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Cinta Dirndl Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Correia Dirndl Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Costas da Camiseta Interna do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Frente da Camiseta Interna do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Frente da Camiseta Interna do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Carcela Frontal da Camiseta Interna do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11262",
+    "name": "Elevated Ruffled Square Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11263",
+    "name": "Elevated Scoop Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Colar Corporal para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peito Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Colar Corporal para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Peito Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Babado Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11264",
+    "name": "Elevated Scoop Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Colar Corporal para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peito Frontal do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Babado Traseiro do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Babado Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Colar Corporal para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Peito Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Babado Traseiro do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Babado Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11265",
+    "name": "Elevated Stays",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Fica para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Fica Eyelet Placket Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Fica Eyelet Placket Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Fica em frente à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Fica em frente à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Fica para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Fica à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Fica para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Fica à Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Anexo à esquerda da manga do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Direito do anexo da manga do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Fita Frontal do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Costas da Parte Interna do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Frente da Parte Interna do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Fica para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Fica Eyelet Placket Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Fica Eyelet Placket Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Fica em frente à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Fica em frente à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Fica para a esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Fica à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Fica para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Fica à Direita Frente"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Anexo à esquerda da manga do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Direito do anexo da manga do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Fita Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Costas da Parte Interna do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Frente da Parte Interna do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Frente da Parte Interna do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Frente da Parte Interna do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11266",
+    "name": "Empire Princess Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11267",
+    "name": "Flared Bugonia Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle de corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle de corpo para a direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Ruffle de corpo à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Ruffle de corpo para a direita"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente do cinto do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11268",
+    "name": "Front Lace Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Laço do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Cinta do corpo para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Cintura do corpo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11269",
+    "name": "Front Lace Stay",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "O corpo fica para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Carcela de Ilhoses do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Carcela de Ilhoses do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Estrutura Frontal do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "O corpo permanece à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "O corpo permanece para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Estrutura Frontal do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "O corpo fica para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "O corpo fica na frente direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Undershirt Frill Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Undershirt Frill Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Fica Fita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Firme L"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Firme a cinta R"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Undershirt para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Frente da camisa"
+      }
+    ]
+  },
+  {
+    "assetId": "11270",
+    "name": "Gatsby Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Corpo esquerdo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Acabamento Interno Frontal do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Acabamento Interno Frontal do Corpo Direito"
+      }
+    ]
+  },
+  {
+    "assetId": "11271",
+    "name": "Halter Neck Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Corda traseira"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Cinta de pescoço do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Cinta frontal do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Corda traseira"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Laço do Pescoço do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Cinta de pescoço do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Cinta frontal do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Corda traseira"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Cinta de pescoço do corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Cinta frontal do corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 3,
+        "panel": 0,
+        "label": "Corda traseira"
+      },
+      {
+        "variant": 3,
+        "panel": 1,
+        "label": "Cinta de pescoço do corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 2,
+        "label": "Cinta frontal do corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 3,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 3,
+        "panel": 5,
+        "label": "Laço do Pescoço do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11272",
+    "name": "Jacket V Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Casaco para trás Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Casaco de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Colete de casaco aparar à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Colete de casaco aparar à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Casaco à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Casaco Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Manga para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Manga de casaco direita"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Aparar o casaco para trás para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Casaco Aparar Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Casaco Aparar Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Colete de casaco aparar à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Jaqueta aparar para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Colete de casaco aparar à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Casaco Aparar Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Casaco Aparar Direita Frente"
+      }
+    ]
+  },
+  {
+    "assetId": "11273",
+    "name": "Jacket Yoked Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Casaco de volta para baixo"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Jaqueta de volta Yoke Superior"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Colete de casaco aparar à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Colete de casaco aparar à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Casaco à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Casaco Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Manga para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Manga de casaco direita"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Aparar o casaco para trás para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Colete de casaco à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Jaqueta aparar para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Colete de casaco à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Casaco Aparar Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Casaco Aparar Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Yoke dianteiro esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Yoke dianteiro direito"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Bloco frontal esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Bloco dianteiro direito"
+      }
+    ]
+  },
+  {
+    "assetId": "11274",
+    "name": "Kaftan Wrap Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Banda do pescoço do corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Banda do pescoço do corpo para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Banda do pescoço do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Banda do pescoço do corpo à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Banda do pescoço do corpo para a direita"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Banda do pescoço do corpo para trás"
+      }
+    ]
+  },
+  {
+    "assetId": "11275",
+    "name": "Katarina Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11276",
+    "name": "Kimono Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11277",
+    "name": "Land Girl Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Cinta do corpo para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Subtop Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente de Baixo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Cinta do corpo à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Cinta do corpo para a direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Subtop Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente de Baixo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Placa frontal de baixo"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Subtop Back"
+      }
+    ]
+  },
+  {
+    "assetId": "11278",
+    "name": "Milkmaid Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Corpo esquerdo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "11279",
+    "name": "One Shoulder Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11280",
+    "name": "Plunging Neckline Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da cintura"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Cintura Traseira do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Cintura do corpo para trás à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11281",
+    "name": "Princess Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente do cinto do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11282",
+    "name": "Princess Heart Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11283",
+    "name": "Princess Scoop Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Recuar Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Recuar Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente do cinto do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11284",
+    "name": "Princess Scoop Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Babado Traseiro do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Babado Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Babado Traseiro do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Babado Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11285",
+    "name": "Princess V Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente do cinto do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11286",
+    "name": "Princess V Elevated Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Colar traseiro do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peito Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente do cinto do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Colar traseiro do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Peito Frontal do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11287",
+    "name": "Princess V Elevated Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Ruffle Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Colar traseiro do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Peito Frontal do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente do cinto do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Ruffle Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Ruffle Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Colar traseiro do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Peito Frontal do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11288",
+    "name": "Princess V Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Ruffle Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente do cinto do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Ruffle Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Ruffle Frente Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11289",
+    "name": "Queen Anne Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Ombro Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Ombro esquerdo"
+      }
+    ]
+  },
+  {
+    "assetId": "11290",
+    "name": "Ruched Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11291",
+    "name": "Ruched Sweetheart Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Corpo Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11292",
+    "name": "Ruffle Apron Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da camisa"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Ruffle de corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle de corpo para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente do cinto do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11293",
+    "name": "Ruffle Bodice Straight",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11294",
+    "name": "Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11295",
+    "name": "Ruffled Square Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11296",
+    "name": "Sax Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Cintura do corpo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11297",
+    "name": "Single Keyhole Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11298",
+    "name": "Split Crew Neck Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11299",
+    "name": "Square Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11300",
+    "name": "Strapless Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente da cintura do corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 2,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 2,
+        "panel": 6,
+        "label": "Drapeado das Costas do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 7,
+        "label": "Drapeado Frontal do Corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 3,
+        "panel": 3,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 3,
+        "panel": 4,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 3,
+        "panel": 5,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 3,
+        "panel": 6,
+        "label": "Frente da Algema do Corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 7,
+        "label": "Faixa de cintura do corpo para trás"
+      },
+      {
+        "variant": 3,
+        "panel": 8,
+        "label": "Frente da Algema do Corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 9,
+        "label": "Frente da cintura do corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11301",
+    "name": "Sweet Maiden Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11302",
+    "name": "Sweetheart Bodice Elevated",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Corpo esquerdo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas Superiores do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente Superior do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente Superior do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Carcela de Botões do Corpete 1"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Carcela de Botões do Corpete 2"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Carcela Frontal de Botões do Corpete 1"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Carcela Frontal de Botões do Corpete 1"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Costas Superiores do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Frente Superior do Corpete Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente Superior do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Faixa de cintura do corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Costas do Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Costas do Corpete Esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "11303",
+    "name": "Sweetheart Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Corpo esquerdo"
+      }
+    ]
+  },
+  {
+    "assetId": "11304",
+    "name": "Twilight Hour Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do cinto do corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Cinto do corpo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Decote das Costas do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11305",
+    "name": "V Yoked Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11306",
+    "name": "Viper Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bojo Interno do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bojo Interno do Corpo Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bojo Externo do Corpo Esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bojo Externo do Corpo Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Frente Superior do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Corpo direito superior"
+      }
+    ]
+  },
+  {
+    "assetId": "11307",
+    "name": "Waistcoat Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Colar Corporal para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Gola Frontal do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Gola Frontal do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Left Back "
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Costas do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Costas da Parte Interna do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Frente da Parte Interna do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Frente da Parte Interna do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Carcela Frontal da Parte Interna do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11308",
+    "name": "Waterfall Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpete Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas do Corpete Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Banda do pescoço do corpo para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Banda do pescoço do corpo à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Banda do pescoço do corpo para a direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11309",
+    "name": "Widow Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11310",
+    "name": "Wrap Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Corpo Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Corpo esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Corpo Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "11311",
+    "name": "Yoked Shirt Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11312",
+    "name": "Yoked Shirt V Neck Bodice",
+    "class": "BodiceDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12078",
+    "name": "Apron Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Babado das Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Babado da Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente Avental de saia"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente de Ruffle Avental"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Babado das Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Babado da Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Frente Avental de saia"
+      }
+    ]
+  },
+  {
+    "assetId": "12079",
+    "name": "Belladonna Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia para a Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Peplum Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peplum Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Peplum Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Peplum para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Peplum Voltar Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Frente de Peplum"
+      }
+    ]
+  },
+  {
+    "assetId": "12080",
+    "name": "Bias Cut Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "12081",
+    "name": "Bo Peep Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12082",
+    "name": "Bow Ballgown Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Cinto de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente do cinto de saias"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Curvar à Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Cauda de arco A"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Cauda de arco B"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Cinto de saia para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Frente do cinto de saias"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Orelhas de arco"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Cauda de arco A"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Cauda de arco B"
+      }
+    ]
+  },
+  {
+    "assetId": "12083",
+    "name": "Bow Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia para a Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Arco"
+      }
+    ]
+  },
+  {
+    "assetId": "12084",
+    "name": "Bustle Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Nível de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 1 esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia de nível 1 direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Nível 2 esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia Tier 3 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Saia de nível 4 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Saia de nível 4 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Saia de nível 4 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Saia Tier 5 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Frente da saia de nível 5"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Saia de nível 5 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Saia de nível 5 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Saia de nível 5 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Saia de nível 5 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Cinto de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Frente do cinto de saias"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Cinto à esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Cinto esquerdo dianteiro"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Cinto de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Cinto de saia à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12085",
+    "name": "Chrysanthemum Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia Tier 1 Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de nível 1 Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia de nível 1 esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 1 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia Tier 1 Esquerda Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia de nível 1 direita"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Saia Tier 1 Direita Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Saia Tier 1 Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Saia de nível 1 Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Saia de nível 1 esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Saia de nível 1 esquerda para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Saia Tier 1 Esquerda Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Saia de nível 1 direita"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Saia Tier 1 Direita Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 16,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 17,
+        "label": "Nível 2 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 18,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 19,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 1,
+        "panel": 20,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 21,
+        "label": "Saia de nível 2 à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12086",
+    "name": "Circle Peplum Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Peplum Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Peplum para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Peplum Voltar Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peplum Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Peplum Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Peplum Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Peplum Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12087",
+    "name": "Circle Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12088",
+    "name": "Coat Dress Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia para a Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Placa de saias"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Barra da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Saia para a Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Placa de saias"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Barra da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente da Saia"
+      }
+    ]
+  },
+  {
+    "assetId": "12089",
+    "name": "Corset Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia para a Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Faixa de saia de volta"
+      }
+    ]
+  },
+  {
+    "assetId": "12090",
+    "name": "Curved Peplum Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Peplum Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Peplum para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Peplum Voltar Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peplum Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Peplum Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Peplum Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Peplum Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12091",
+    "name": "Dita Pencil Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12092",
+    "name": "Empire Princess Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12093",
+    "name": "Evie Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12094",
+    "name": "Flare Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas da Saia Esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "12095",
+    "name": "Frill Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do cinto de saias"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente inferior da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia Frill Frente Superior"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Largura de saia inferior para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Largura superior da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Cinto de saia para trás"
+      }
+    ]
+  },
+  {
+    "assetId": "12096",
+    "name": "Frill Wrap Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12097",
+    "name": "Gathered Ballgown Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12098",
+    "name": "Gathered Tiered Ruffle Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 1 Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 1 Frente Ruffle"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 2 Back "
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia de nível 2 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 2 Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Saia de nível 2 Frente Ruffle"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Frente da saia de nível 3"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Saia de nível 3 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Saia de nível 3 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Saia de nível 3 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Saia de nível 3 Frente Ruffle"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Saia de nível 3 Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Cintura da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Frente da cintura da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Cintura esquerda da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Cintura da saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Cintura da saia de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Saia da cintura direita frente"
+      }
+    ]
+  },
+  {
+    "assetId": "12099",
+    "name": "Gathered Tiered Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 3 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia de nível 3 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Frente da saia de nível 3"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 4 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Saia de nível 4 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Saia de nível 4 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Saia de nível 4 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Saia de nível 4 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Frente do nível 4 da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Cintura da saia de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Cintura da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Cintura da saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Saia da cintura direita frente"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Frente da cintura da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Cintura esquerda da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Saia de nível 2 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Saia de nível 3 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Saia de nível 3 à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12100",
+    "name": "Gatsby Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Cinto de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do cinto de saias"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Cinto à esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Cinto esquerdo dianteiro"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Cinto de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Cinto de saia à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 2 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Saia de nível 3 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Saia de nível 3 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Saia de nível 3 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Frente de saia"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Subsaia Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Debaixo da saia à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12101",
+    "name": "Godet Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia Inserir Recuar"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia Inserir Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia Inserir Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Inserir Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia Inserir Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia Inserir Esquerda Recuar"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia Inserir Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia Inserir Direita Voltar"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Painel de saias para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Painel de saias de volta à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Painel de saias à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Painel de saias Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Painel de saias à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Painel de saias à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Painel de saias para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Painel de saias à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12102",
+    "name": "Handkerchief Godet Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia Inserir Recuar"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia Inserir Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia Inserir Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Inserto Frontal da Saia Direito"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia Inserir Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia Inserir Esquerda Recuar"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia Inserir Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia Inserir Direita Voltar"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Painel de saias para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Painel de saias de volta à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Painel de saias à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Painel de saias Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Painel de saias à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Painel de saias à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Painel de saias para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Painel de saias à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12103",
+    "name": "Handkerchief Hem Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12104",
+    "name": "Junon Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12105",
+    "name": "Kaftan Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12106",
+    "name": "Koi Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Saia de nível 2 à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12107",
+    "name": "Mermaid Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Skirt Tier 2 LeftFront"
+      }
+    ]
+  },
+  {
+    "assetId": "12108",
+    "name": "Middle Panel Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12109",
+    "name": "Mother of Pearl Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Sobressair"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Overskirt Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Sobressair a Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente Ruffle"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Por baixo da saia direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente de saia"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Subsaia à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Sobressair"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente da saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Overskirt Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Sobressair a Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente Ruffle"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Ruffle à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Ruffle Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Por baixo da saia direita"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Frente de saia"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Subsaia à esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "12110",
+    "name": "Odette Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back "
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia de nível 3 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia Tier 3 Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Saia de nível 4 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Nível 4 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Saia de nível 4 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Saia de nível 4 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Saia de nível 4 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Saia Tier 6 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Saia de nível 6 para trás esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Saia de nível 6 para trás para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Frente da saia de nível 6"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Saia de nível 6 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Saia de nível 6 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Subsaia de nível 5 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Subsaia de nível 5 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Subsaia de nível 5 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Frente de Subsaia de Nível 5"
+      },
+      {
+        "variant": 0,
+        "panel": 30,
+        "label": "Subsaia de nível 5 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 31,
+        "label": "Debaixo da saia de nível 5 à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12111",
+    "name": "Pencil Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas da Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12112",
+    "name": "Petal Bow Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12113",
+    "name": "Petal Peplum Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia RIGHT Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia Peplum Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia Peplum de volta direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia Peplum Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia Peplum Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia Peplum Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia Peplum Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12114",
+    "name": "Poinsetta Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de nível 1 esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia de nível 1 direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Nível 2 esquerdo"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia de nível 2 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Frente da saia de nível 3"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Saia Tier 3 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back "
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Saia de nível 1"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Saia de nível 1 esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Aparar a saia do nível 1 esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia de nível 1 direita"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia de nível 1 direita"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Nível 2 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Saia de nível 2 para trás à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Saia de nível 2 para trás direito"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Saia Tier 2 Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Saia de nível 2 frente direita"
+      },
+      {
+        "variant": 1,
+        "panel": 16,
+        "label": "Nível 2 esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 17,
+        "label": "Aparar a saia do nível 2 esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 18,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 19,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 20,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 21,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 22,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 23,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 24,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 25,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 26,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 27,
+        "label": "Saia Tier 2 RIght Front Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 28,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 29,
+        "label": "Frente da saia de nível 3"
+      },
+      {
+        "variant": 1,
+        "panel": 30,
+        "label": "Saia Tier 3 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 31,
+        "label": "Saia de nível 3 à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12115",
+    "name": "Princess Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12116",
+    "name": "Ruffle Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente de saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Ruffle de saia 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Ruffle de saia 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Ruffle 01 Voltar para a Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia Ruffle 1 Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle 1 Esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Ruffle de saia 1 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia Ruffle 1 Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Ruffle de saia 2 para trás esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Ruffle de saia 2 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Saia Ruffle 2 Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia Ruffle 2 Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Ruffle de saia 2 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Ruffle de saia 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Ruffle de saia 2 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Ruffle de saia 2 frente direita"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Ruffle de saia 3 para trás esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Saia Ruffle 3 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Saia Ruffle 3 Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Saia Ruffle 3 Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Ruffle de saia 3 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Saia Ruffle 3 Esquerda Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Ruffle de saia 3 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Saia Ruffle 3 Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Ruffle de saia 4 para trás esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Ruffle de saia 4 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Saia Ruffle 4 Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Saia Ruffle 4 Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 30,
+        "label": "Ruffle de saia 4 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 31,
+        "label": "Saia Ruffle 4 Esquerda Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 32,
+        "label": "Ruffle de saia 4 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 33,
+        "label": "Saia Ruffle 4 Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 34,
+        "label": "Ruffle de saia 5 para trás esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 35,
+        "label": "Ruffle de saia 5 para trás à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 36,
+        "label": "Saia Ruffle 5 Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 37,
+        "label": "Ruffle de saia 5 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 38,
+        "label": "Saia Ruffle 5 Esquerda Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 39,
+        "label": "Saia Ruffle 5 Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 40,
+        "label": "Ruffle saia 5 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 41,
+        "label": "Faixa de cintura para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 42,
+        "label": "Frente da banda da cintura"
+      },
+      {
+        "variant": 0,
+        "panel": 43,
+        "label": "Faixa de cintura esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 44,
+        "label": "Faixa de cintura à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 45,
+        "label": "Faixa de cintura para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 46,
+        "label": "Banda da cintura à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 47,
+        "label": "Ruffle 05 Frente Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12117",
+    "name": "Scalloped Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia para a Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia RIght Frente"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Tier 01 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Tier 01 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia de nível 01 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Saia de nível 01 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Tier 01 para a esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Tier 01 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia de nível 01 direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia de nível 01 RIght Frente"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Tier 02 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Nível de saia 02 para trás à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Saia Tier 02 Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Nível de saia 02 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Tier 02 para a esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Nível de saia 02 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Skirt Tier 02 Direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Tier 02 à direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12118",
+    "name": "Single Tiered Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da camada da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Nível de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Nível da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "A parte inferior esquerda da frente"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Nível de saia à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Nível de saia direita para trás"
+      }
+    ]
+  },
+  {
+    "assetId": "12119",
+    "name": "Spiral Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12120",
+    "name": "Split Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente de saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Subsaia Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Debaixo da saia à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Debaixo da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Sobressair"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Overskirt Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Sobressair a saia de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Overskirt Esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Overskirt Frente Esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "12121",
+    "name": "Straight Gathered Tiered Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 3 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia de nível 3 esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Frente da saia de nível 3"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Saia de nível 3 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Saia de nível 2 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Frente da saia de nível 2"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Saia de nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente da saia de nível 1"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia de nível 1 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Nível 1 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Saia de nível 1 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Saia de nível 1 direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia de nível 2 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia de nível 2 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Saia de nível 2 esquerda para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Saia de nível 3 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Saia de nível 3 esquerda para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Frente da saia de nível 3"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Saia de nível 3 para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Saia de nível 3 direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 16,
+        "label": "Saia de nível 2 direita para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 17,
+        "label": "Frente da saia de nível 2"
+      }
+    ]
+  },
+  {
+    "assetId": "12122",
+    "name": "Straight Long Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas da Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12123",
+    "name": "Tiered Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Cinto de saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do cinto de saias"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Cinto à esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Cinto esquerdo dianteiro"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Cinto de saia à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Cinto de saia à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Nível de saia 01 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 01 Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Tier 01 para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Tier 01 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 01 direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Tier 01 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Nível de saia 02 para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Frente da saia Tier 02"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Tier 02 para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Nível de saia 02 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 02 Direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Tier 02 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Nível de saia 03 Voltar"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Frente da saia Tier 03"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Tier 03 para a esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Nível de saia 03 à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Nível de saia 03 Direita para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Tier 03 Frente Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12124",
+    "name": "Train Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Comboio de saia de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do comboio da saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Trem de saias à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Comboio de saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Trem de saia de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Trem de saia à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Frente da Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12125",
+    "name": "Tulip Hip Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia Hip Esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia Hip Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Aperta a saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia quadril direita frente"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia Hip Esquerda para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Saia Hip Frente Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Aperta a saia para trás"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Saia quadril direita frente"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Curvar à Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Curvar à Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12126",
+    "name": "Twilight Hour Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia para a Esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "12127",
+    "name": "Venus Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12128",
+    "name": "Viper Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia para a Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia de volta para a direita"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia Peplum Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia Peplum de volta direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia Peplum Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia Peplum Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia Peplum Esquerda para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia Peplum Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia Peplum direita de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Saia Peplum Direita Frente"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Largura da saia para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Largar a cintura para trás"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Largar a cintura direita"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Saia soltar a cintura à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Saia cair cintura frente direita"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Saia soltar cintura esquerda frente"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Saia cair cintura direita frente"
+      }
+    ]
+  },
+  {
+    "assetId": "12129",
+    "name": "Waistcoat Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia Peplum Frente Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Saia Peplum de volta"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia Peplum Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Saia Peplum Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Saia Peplum Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente da Saia"
+      }
+    ]
+  },
+  {
+    "assetId": "12130",
+    "name": "Waterfall Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia Frente Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia Direita"
+      }
+    ]
+  },
+  {
+    "assetId": "12131",
+    "name": "Wavecrest Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Saia de nível 1 direita"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Saia de nível 2 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Saia de nível 3 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Saia de nível 4 à direita"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Saia de nível 5 à direita"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Costas da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente da Saia Esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente da Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Saia de nível 1 esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Nível 2 esquerdo"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Saia Tier 3 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Saia de nível 4 à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Saia de nível 5 à esquerda"
+      }
+    ]
+  },
+  {
+    "assetId": "12132",
+    "name": "Widow Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12133",
+    "name": "Wrap Skirt",
+    "class": "SkirtDefinition",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Arco da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Banda da cintura da saia"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Arco da Saia"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Banda da cintura da saia"
+      },
+      {
+        "variant": 3,
+        "panel": 0,
+        "label": "Saia Direita"
+      },
+      {
+        "variant": 3,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 3,
+        "panel": 2,
+        "label": "Saia à esquerda"
+      }
+    ]
+  }
+]
