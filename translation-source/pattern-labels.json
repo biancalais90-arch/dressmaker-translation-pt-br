@@ -1,0 +1,9246 @@
+[
+  {
+    "assetId": "11165",
+    "name": "Apron Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Apron Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Undershirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Undershirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Apron Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Apron Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Strap Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Undershirt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Undershirt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Apron Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Apron Belt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Strap Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11166",
+    "name": "Aurora Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Aurora Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11167",
+    "name": "Belladonna Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Belladonna Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Cup Inner Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Cup Inner Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Cup Outer Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Cup Outer Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Bodice Shoulder Left"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Bodice Shoulder Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Bodice Shoulder Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Bodice Shoulder Right"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Bodice Shoulder Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Bodice Shoulder Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Bodice Strap Front"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Bodice Strap Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11168",
+    "name": "Belted Jacket Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Belted Jacket Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Jacket Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Jacket Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Jacket Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Jacket Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Jacket Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Jacket Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Jacket Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11169",
+    "name": "Black Widow Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Black Widow Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11170",
+    "name": "Bolero Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Bolero Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bolero Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bolero Ribbon Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bolero Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bolero Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bolero Ribbon Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bolero Ribbon Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bolero Ribbon Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Bodice Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11171",
+    "name": "Bustier Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Bustier Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Cup Bottom Inner Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Cup Bottom Inner Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Cup Bottom Outer Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Cup Bottom Outer Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Cup Top Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Cup Top Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Cup Bottom Inner Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Cup Bottom Inner Right"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Cup Bottom Outer Left"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Cup Bottom Outer Right"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Cup Top Left"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bodice Cup Top Right"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Bodice Strap Right"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Bodice Cup Bottom Inner Left"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Bodice Cup Bottom Inner Right"
+      },
+      {
+        "variant": 2,
+        "panel": 5,
+        "label": "Bodice Cup Bottom Outer Left"
+      },
+      {
+        "variant": 2,
+        "panel": 6,
+        "label": "Bodice Cup Bottom Outer Right"
+      },
+      {
+        "variant": 2,
+        "panel": 7,
+        "label": "Bodice Cup Top Left"
+      },
+      {
+        "variant": 2,
+        "panel": 8,
+        "label": "Bodice Cup Top Right"
+      },
+      {
+        "variant": 2,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 10,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 2,
+        "panel": 11,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 2,
+        "panel": 12,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 2,
+        "panel": 13,
+        "label": "Bodice Strap Right"
+      },
+      {
+        "variant": 2,
+        "panel": 14,
+        "label": "Bodice Strap Ribbon Right"
+      },
+      {
+        "variant": 2,
+        "panel": 15,
+        "label": "Bodice Strap Ribbon Left"
+      }
+    ]
+  },
+  {
+    "assetId": "11172",
+    "name": "Carmilla Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Carmilla Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11173",
+    "name": "Cinched Blouse",
+    "class": "BodiceDefinition",
+    "displayName": "Cinched Blouse",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11174",
+    "name": "Cinched Keyhole Blouse",
+    "class": "BodiceDefinition",
+    "displayName": "Cinched Keyhole Blouse",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Collar Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Collar Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11175",
+    "name": "Coat Dress Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Coat Dress Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front RIght"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Button Placket"
+      }
+    ]
+  },
+  {
+    "assetId": "11176",
+    "name": "Corset Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Corset Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Ribbon Back"
+      }
+    ]
+  },
+  {
+    "assetId": "11177",
+    "name": "Delilah Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Delilah Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Frill"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Yoke Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Yoke Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Yoke Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11178",
+    "name": "Dirndl",
+    "class": "BodiceDefinition",
+    "displayName": "Dirndl",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Dirndl Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Dirndl Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Dirndl Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Dirndl Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Dirndl Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Dirndl Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Dirndl Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Dirndl Strap Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Dirndl Strap Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Undershirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Undershirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Frill Back"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Bodice Frill Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11179",
+    "name": "Double Breasted Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Double Breasted Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11180",
+    "name": "Elevated Dirndl",
+    "class": "BodiceDefinition",
+    "displayName": "Elevated Dirndl",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Dirndl Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Dirndl Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Dirndl Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Dirndl Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Dirndl Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Dirndl Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Dirndl Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Dirndl Strap Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Dirndl Strap Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Undershirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Undershirt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Dirndl Back"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Dirndl Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Dirndl Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Dirndl Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Dirndl Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Dirndl Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Dirndl Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Dirndl Strap Left"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Dirndl Strap Right"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Undershirt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Bodice Undershirt Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Bodice Undershirt Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Bodice Undershirt Front Placket"
+      }
+    ]
+  },
+  {
+    "assetId": "11181",
+    "name": "Elevated Ruffled Square Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Elevated Ruffled Square Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11182",
+    "name": "Elevated Scoop Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Elevated Scoop Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Collar Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Front Chest"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Collar Back"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Front Chest"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Ruffle F"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Waistband Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11183",
+    "name": "Elevated Scoop Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Elevated Scoop Ruffle Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Collar Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Front Chest"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Ruffle B"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Ruffle F"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Collar Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Front Chest"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bodice Ruffle B"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Ruffle F"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Bodice Waistband Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11184",
+    "name": "Elevated Stays",
+    "class": "BodiceDefinition",
+    "displayName": "Elevated Stays",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Stays Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Stays Eyelet Placket Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Stays Eyelet Placket Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Stays Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Stays Front Right "
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Stays Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Stays Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Stays Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Stays Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Sleeve Attachment Left"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Sleeve Attachment Right"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Ribbon Front"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Bodice Undertop Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Bodice Undertop Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Stays Back"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Stays Eyelet Placket Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Stays Eyelet Placket Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Stays Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Stays Front Right "
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Stays Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Stays Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Stays Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Stays Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Sleeve Attachment Left"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Bodice Sleeve Attachment Right"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Bodice Ribbon Front"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Bodice Undertop Back"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Bodice Undertop Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Bodice Undertop Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Bodice Undertop Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11185",
+    "name": "Empire Princess Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Empire Waist Princess",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11186",
+    "name": "Flared Bugonia Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Flared Begonia Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Ruffle Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Ruffle Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Ruffle Left"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Ruffle Right"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Belt Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11187",
+    "name": "Front Lace Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Front Lace Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Lace"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Strap Right"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Waist Back"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Bodice Waist Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11188",
+    "name": "Front Lace Stay",
+    "class": "BodiceDefinition",
+    "displayName": "Front Lace Stays",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bodice Stays Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Eyelet Placket Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Eyelet Placket Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Stays Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Stays Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Stays Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Stays Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Stays Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Stays Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Undershirt Frill Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Undershirt Frill Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Stays Ribbon"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Stays Strap L"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Stays Strap R"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Undershirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Undershirt Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11189",
+    "name": "Gatsby Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Gatsby Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bodice Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Inner Trim Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Inner Trim Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11190",
+    "name": "Halter Neck Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Halter Neck Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bodice Back Strap"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Neck Strap"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Strap"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Bodice Back Strap"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Neck Bow"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Neck Strap"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Strap"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Bodice Back Strap"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Bodice Neck Strap"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Bodice Front Strap"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 3,
+        "panel": 0,
+        "label": "Bodice Back Strap"
+      },
+      {
+        "variant": 3,
+        "panel": 1,
+        "label": "Bodice Neck Strap"
+      },
+      {
+        "variant": 3,
+        "panel": 2,
+        "label": "Bodice Front Strap"
+      },
+      {
+        "variant": 3,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 3,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 3,
+        "panel": 5,
+        "label": "Bodice Neck Bow"
+      }
+    ]
+  },
+  {
+    "assetId": "11191",
+    "name": "Jacket V Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Jacket Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Jacket Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Jacket Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Jacket Collar Trim Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Jacket Collar Trim Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Jacket Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Jacket Right"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Jacket Sleeve Left"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Jacket Sleeve Right"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Jacket Trim Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Jacket Trim Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Jacket Trim Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Jacket Collar Trim Left"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Jacket Trim Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Jacket Collar Trim Right"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Jacket Trim Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Jacket Trim Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11192",
+    "name": "Jacket Yoked Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Yoked Jacket Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Jacket Back Lower"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Jacket Back Upper Yoke"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Jacket Collar Trim Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Jacket Collar Trim Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Jacket Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Jacket Right"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Jacket Sleeve Left"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Jacket Sleeve Right"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Jacket Trim Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Jacket Collar Left"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Jacket Trim Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Jacket Collar Right"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Jacket Trim Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Jacket Trim Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Jacket Front Left Yoke"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Jacket Front Right Yoke"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Jacket Front Left Placket"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Jacket Front Right Placket"
+      }
+    ]
+  },
+  {
+    "assetId": "11193",
+    "name": "Kaftan Wrap Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Kaftan Wrap Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Neck Band Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Neck Band Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Neck Band Back"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Neck Band Left"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Neck Band Right"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Neck Band Back"
+      }
+    ]
+  },
+  {
+    "assetId": "11194",
+    "name": "Katarina Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Katarina Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11195",
+    "name": "Kimono Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Kimono Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11196",
+    "name": "Land Girl Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Land Girl Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Strap Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Undertop Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Undertop Front"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Strap Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Strap Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Undertop Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Undertop Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Undertop Front Placket"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Undertop Back"
+      }
+    ]
+  },
+  {
+    "assetId": "11197",
+    "name": "Milkmaid Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Left Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11198",
+    "name": "One Shoulder Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11199",
+    "name": "Plunging Neckline Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Plunging Neckline Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Waist Front"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Waist Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Waist Back Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11200",
+    "name": "Princess Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Princess Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Belt Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11201",
+    "name": "Princess Heart Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Heart Princess Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Waist Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Waist Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11202",
+    "name": "Princess Scoop Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Princess Scoop Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Belt Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11203",
+    "name": "Princess Scoop Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Scoop Ruffle Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Ruffle B"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Ruffle F"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Ruffle B"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Ruffle F"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Waistband Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11204",
+    "name": "Princess V Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Princess V Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Belt Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11205",
+    "name": "Princess V Elevated Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Elevated Princess V Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Back Collar"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Front Chest"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Belt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bodice Back Collar"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Front Chest"
+      }
+    ]
+  },
+  {
+    "assetId": "11206",
+    "name": "Princess V Elevated Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Princess V Elevated Ruffle Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Ruffle Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Back Collar"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Front Chest"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Belt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Ruffle Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Ruffle Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Bodice Back Collar"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Bodice Front Chest"
+      }
+    ]
+  },
+  {
+    "assetId": "11207",
+    "name": "Princess V Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Princess V Ruffle Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Ruffle Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Belt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Ruffle Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Ruffle Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11208",
+    "name": "Queen Anne Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Shoulder Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Shoulder Left"
+      }
+    ]
+  },
+  {
+    "assetId": "11209",
+    "name": "Ruched Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11210",
+    "name": "Ruched Sweetheart Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Ruched Sweetheart Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11211",
+    "name": "Ruffle Apron Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Ruffle Apron Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Undershirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Ruffle Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Ruffle Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Belt Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11212",
+    "name": "Ruffle Bodice Straight",
+    "class": "BodiceDefinition",
+    "displayName": "Straight Begonia Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente do Corpo"
+      }
+    ]
+  },
+  {
+    "assetId": "11213",
+    "name": "Ruffle Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Off-Shoulder Begonia Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11214",
+    "name": "Ruffled Square Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Ruffled Square Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11215",
+    "name": "Sax Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Sax Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Waist Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Waist Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11216",
+    "name": "Single Keyhole Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Single Keyhole Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Waistband Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11217",
+    "name": "Split Crew Neck Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Split Crew Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Waistband Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11218",
+    "name": "Square Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Waistband Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11219",
+    "name": "Strapless Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Strapless Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Waistband Front"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 2,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 2,
+        "panel": 6,
+        "label": "Bodice Cowl Back"
+      },
+      {
+        "variant": 2,
+        "panel": 7,
+        "label": "Bodice Cowl Front"
+      },
+      {
+        "variant": 3,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 3,
+        "panel": 2,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 3,
+        "panel": 3,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 3,
+        "panel": 4,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 3,
+        "panel": 5,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 3,
+        "panel": 6,
+        "label": "Bodice Cuff Front"
+      },
+      {
+        "variant": 3,
+        "panel": 7,
+        "label": "Bodice Waistband Back"
+      },
+      {
+        "variant": 3,
+        "panel": 8,
+        "label": "Bodice Cuff Front"
+      },
+      {
+        "variant": 3,
+        "panel": 9,
+        "label": "Bodice Waistband Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11220",
+    "name": "Sweet Maiden Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Sweet Maiden Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11221",
+    "name": "Sweetheart Bodice Elevated",
+    "class": "BodiceDefinition",
+    "displayName": "Elevated Sweetheart Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Upper Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Upper Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Upper Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Carcela de Botões do Corpete 1"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Carcela de Botões do Corpete 2"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Front Button Placket 1"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Front Button Placket 1"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Bodice Upper Back"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bodice Upper Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bodice Upper Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Bodice Waistband"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Bodice Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Bodice Back Left"
+      }
+    ]
+  },
+  {
+    "assetId": "11222",
+    "name": "Sweetheart Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Left"
+      }
+    ]
+  },
+  {
+    "assetId": "11223",
+    "name": "Twilight Hour Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Twilight Hour Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Back Neck"
+      }
+    ]
+  },
+  {
+    "assetId": "11224",
+    "name": "V Yoked Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Upturned Yoked Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Frente do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11225",
+    "name": "Viper Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Viper Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Cup Inner Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Cup Inner Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Cup Outer Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Cup Outer Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Front Left Upper"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Bodice Right Upper"
+      }
+    ]
+  },
+  {
+    "assetId": "11226",
+    "name": "Waistcoat Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Waistcoat Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Bodice Collar Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Collar Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Collar Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Left Back "
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bodice Undertop Back"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Bodice Undertop Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Bodice Undertop Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Bodice Undertop Front Placket"
+      }
+    ]
+  },
+  {
+    "assetId": "11227",
+    "name": "Waterfall Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Waterfall Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Bodice Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bodice Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Bodice Neck Band Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bodice Neck Band Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bodice Neck Band Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11228",
+    "name": "Widow Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Widow Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11229",
+    "name": "Wrap Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Wrap Bodice",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Bodice Left"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Bodice Right"
+      }
+    ]
+  },
+  {
+    "assetId": "11230",
+    "name": "Yoked Shirt Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "Yoked Shirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Bodice Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Bodice Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11231",
+    "name": "Yoked Shirt V Neck Bodice",
+    "class": "BodiceDefinition",
+    "displayName": "V Neck Yoked Shirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas do Corpo"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11993",
+    "name": "Apron Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Apron Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Babado das Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Babado da Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Apron Front"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Apron Ruffle Front"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Babado das Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Babado da Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Apron Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11994",
+    "name": "Belladonna Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Belladonna Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Peplum Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peplum Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Peplum Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Peplum Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Peplum Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Peplum Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11995",
+    "name": "Bias Cut Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Left Front"
+      }
+    ]
+  },
+  {
+    "assetId": "11996",
+    "name": "Bo Peep Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Bo Peep Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "11997",
+    "name": "Bow Ballgown Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Bow Ballgown Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Bow Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Bow Tail A"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Bow Tail B"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Belt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Belt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Bow Ears"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Bow Tail A"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Bow Tail B"
+      }
+    ]
+  },
+  {
+    "assetId": "11998",
+    "name": "Bow Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Bow Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Bow"
+      }
+    ]
+  },
+  {
+    "assetId": "11999",
+    "name": "Bustle Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Bustle Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 1 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 1 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 2 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 2 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 3 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 3 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 4 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 4 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 4 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Tier 5 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Tier 5 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Tier 5 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Skirt Tier 5 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Skirt Tier 5 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Skirt Tier 5 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Skirt Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Skirt Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Skirt Belt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Skirt Belt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Skirt Belt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Skirt Belt Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12000",
+    "name": "Chrysanthemum Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Chrysanthemum Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Tier 1 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Tier 1 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Tier 1 Front Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier 1 Front Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 1 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 1 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 1 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 1 Left Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 1 Left Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 1 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 1 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 1 Right Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 1 Right Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 2 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Tier 2 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Tier 2 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Tier 2 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Skirt Tier 2 Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12001",
+    "name": "Circle Peplum Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Circle Peplum Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Peplum Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Peplum Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Peplum Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peplum Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Peplum Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Peplum Left"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Peplum Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12002",
+    "name": "Circle Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Circle Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12003",
+    "name": "Coat Dress Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Coat Dress Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Placket"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Bottom"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Placket"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Bottom"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Frente da Saia"
+      }
+    ]
+  },
+  {
+    "assetId": "12004",
+    "name": "Corset Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Corset Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Front Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Front Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Ribbon Back"
+      }
+    ]
+  },
+  {
+    "assetId": "12005",
+    "name": "Curved Peplum Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Curved Peplum Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Peplum Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Peplum Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Peplum Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Peplum Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Peplum Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Peplum Left"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Peplum Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12006",
+    "name": "Dita Pencil Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Dita Pencil Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12007",
+    "name": "Empire Princess Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Empire Princess Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12008",
+    "name": "Evie Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Evie Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12009",
+    "name": "Flare Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Left Back"
+      }
+    ]
+  },
+  {
+    "assetId": "12010",
+    "name": "Frill Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Frill Lower Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Frill Upper Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Frill Lower Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Frill Upper Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Belt Back"
+      }
+    ]
+  },
+  {
+    "assetId": "12011",
+    "name": "Frill Wrap Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Frill Wrap Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12012",
+    "name": "Gathered Ballgown Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Gathered Ballgown Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": ""
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12013",
+    "name": "Gathered Tiered Ruffle Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Gathered Tiered Ruffle Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Tier 1 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Tier 1 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier 1 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 1 Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 1 Ruffle Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 2 Back "
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 2 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 2 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 2 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 2 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 2 Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 2 Ruffle Front"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 3 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Tier 3 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Tier 3 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Tier 3 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Skirt Tier 3 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Skirt Tier 3 Ruffle Front"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Skirt Tier 3 Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Skirt Waist Back"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Skirt Waist Front"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Skirt Waist Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Skirt Waist Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Skirt Waist Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Skirt Waist Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12014",
+    "name": "Gathered Tiered Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Puffy Gathered Tiered Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Tier 1 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Tier 1 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier 1 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 2 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 2 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 3 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 3 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 3 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 4 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 4 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 4 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 4 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Tier 4 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Tier 4 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Waist Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Skirt Waist Back"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Skirt Waist Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Skirt Waist Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Skirt Waist Front"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Skirt Waist Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Skirt Tier 2 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Skirt Tier 2 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Skirt Tier 3 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Skirt Tier 3 Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12015",
+    "name": "Gatsby Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Gatsby Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Belt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Belt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Belt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Belt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 1 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 1 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 1 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 2 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 2 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 2 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 3 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Tier 3 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Tier 3 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Tier 3 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Underskirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Underskirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Underskirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Underskirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Underskirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Underskirt Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12016",
+    "name": "Godet Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Godet Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Insert Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Insert Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Insert Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Insert Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Insert Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Insert Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Insert Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Insert Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Panel Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Panel Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Panel Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Panel Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Panel Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Panel Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Panel Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Panel Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12017",
+    "name": "Handkerchief Godet Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Handkerchief Godet Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Insert Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Insert Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Insert Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Insert Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Insert Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Insert Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Insert Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Insert Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Panel Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Panel Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Panel Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Panel Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Panel Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Panel Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Panel Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Panel Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12018",
+    "name": "Handkerchief Hem Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Handkerchief Hem Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12019",
+    "name": "Junon Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Junon Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12020",
+    "name": "Kaftan Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Kaftan Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12021",
+    "name": "Koi Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Koi Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Tier 1 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Tier 1 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier 1 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 2 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 2 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 2 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 2 Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Skirt Tier 1 Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Tier 1 Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Tier 1 Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Tier 2 Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Tier 2 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Skirt Tier 2 Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Skirt Tier 2 Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12022",
+    "name": "Mermaid Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Tier 1 Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Tier 1 Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Tier 1 Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Tier 2 Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Tier 2 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Skirt Tier 2 Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Skirt Tier 2 LeftFront"
+      }
+    ]
+  },
+  {
+    "assetId": "12023",
+    "name": "Middle Panel Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Yoke Gathered Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12024",
+    "name": "Mother of Pearl Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Mother of Pearl Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Overskirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Overskirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Overskirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Overskirt Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Ruffle Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Ruffle Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Ruffle Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Underskirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Underskirt Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Underskirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Underskirt Left"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Overskirt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Overskirt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Overskirt Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Overskirt Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Ruffle Back"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Ruffle Front"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Ruffle Left"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Ruffle Right"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Underskirt Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Underskirt Right"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Underskirt Front"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Underskirt Left"
+      }
+    ]
+  },
+  {
+    "assetId": "12025",
+    "name": "Odette Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Odette Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back "
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Tier 1 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Tier 1 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Tier 1 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Tier 1 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 2 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 2 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 2 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 2 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 3 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 3 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 3 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 3 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 4 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 4 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 4 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Tier 4 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Tier 4 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Tier 6 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Skirt Tier 6 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Skirt Tier 6 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Skirt Tier 6 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Skirt Tier 6 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Skirt Tier 6 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Underskirt Tier 5 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Underskirt Tier 5 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Underskirt Tier 5 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Underskirt Tier 5 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 30,
+        "label": "Underskirt Tier 5 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 31,
+        "label": "Underskirt Tier 5 Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12026",
+    "name": "Pencil Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Back"
+      }
+    ]
+  },
+  {
+    "assetId": "12027",
+    "name": "Petal Bow Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Petal Bow Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12028",
+    "name": "Petal Peplum Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Petal Peplum Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt RIght Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Peplum Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Peplum Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Peplum Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Peplum Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Peplum Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Peplum Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12029",
+    "name": "Poinsetta Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Poinsetta Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Tier 1 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Tier 1 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Tier 2 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier 2 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 2 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 2 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 2 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 2 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 2 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 2 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 2 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 3 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 3 Left"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 3 Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back "
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Skirt Tier 1 Back Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Tier 1 Front Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Tier 1 Left"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Tier 1 Left Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Tier 1 Right"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Tier 1 Right Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Tier 2 Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Skirt Tier 2 Back Left Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Skirt Tier 2 Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Skirt Tier 2 Back Right Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Skirt Tier 2 Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Skirt Tier 2 Front Left Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Skirt Tier 2 Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Skirt Tier 2 Front Right Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 16,
+        "label": "Skirt Tier 2 Left"
+      },
+      {
+        "variant": 1,
+        "panel": 17,
+        "label": "Skirt Tier 2 Left Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 18,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 19,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 20,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 21,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 22,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 23,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 24,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 25,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 26,
+        "label": ""
+      },
+      {
+        "variant": 1,
+        "panel": 27,
+        "label": "Skirt Tier 2 RIght Front Trim"
+      },
+      {
+        "variant": 1,
+        "panel": 28,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 29,
+        "label": "Skirt Tier 3 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 30,
+        "label": "Skirt Tier 3 Left"
+      },
+      {
+        "variant": 1,
+        "panel": 31,
+        "label": "Skirt Tier 3 Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12030",
+    "name": "Princess Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12031",
+    "name": "Ruffle Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Underskirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Underskirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Ruffle 1 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Ruffle 1 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Ruffle 01 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Ruffle 1 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Ruffle 1 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Ruffle 1 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Ruffle 1 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Ruffle 1 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Ruffle 2 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Ruffle 2 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Ruffle 2 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Ruffle 2 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Ruffle 2 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Ruffle 2 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Ruffle 2 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Ruffle 2 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Ruffle 3 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Ruffle 3 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Ruffle 3 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Skirt Ruffle 3 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Skirt Ruffle 3 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Skirt Ruffle 3 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 24,
+        "label": "Skirt Ruffle 3 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 25,
+        "label": "Skirt Ruffle 3 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 26,
+        "label": "Skirt Ruffle 4 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 27,
+        "label": "Skirt Ruffle 4 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 28,
+        "label": "Skirt Ruffle 4 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 29,
+        "label": "Skirt Ruffle 4 Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 30,
+        "label": "Skirt Ruffle 4 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 31,
+        "label": "Skirt Ruffle 4 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 32,
+        "label": "Skirt Ruffle 4 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 33,
+        "label": "Skirt Ruffle 4 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 34,
+        "label": "Skirt Ruffle 5 Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 35,
+        "label": "Skirt Ruffle 5 Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 36,
+        "label": "Skirt Ruffle 5 Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 37,
+        "label": "Skirt Ruffle 5 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 38,
+        "label": "Skirt Ruffle 5 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 39,
+        "label": "Skirt Ruffle 5 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 40,
+        "label": "Skirt Ruffle 5 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 41,
+        "label": "Waist Band Back"
+      },
+      {
+        "variant": 0,
+        "panel": 42,
+        "label": "Waist Band Front"
+      },
+      {
+        "variant": 0,
+        "panel": 43,
+        "label": "Waist Band Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 44,
+        "label": "Waist Band Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 45,
+        "label": "Waist Band Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 46,
+        "label": "Waist Band Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 47,
+        "label": "Ruffle 05 Front Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12032",
+    "name": "Scalloped Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Scallop Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt RIght Front"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Tier 01 Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Skirt Tier 01 Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Tier 01 Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Tier 01 Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Tier 01 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Tier 01 Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Tier 01 Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Tier 01 RIght Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Tier 02 Back Left"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Skirt Tier 02 Back Right"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Skirt Tier 02 Front Left"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Skirt Tier 02 Front Right"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Skirt Tier 02 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Skirt Tier 02 Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Skirt Tier 02 Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Skirt Tier 02 Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12033",
+    "name": "Single Tiered Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Right back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier Right Back"
+      }
+    ]
+  },
+  {
+    "assetId": "12034",
+    "name": "Spiral Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Spiral Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12035",
+    "name": "Split Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Split Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Underskirt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Underskirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Underskirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Underskirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Underskirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Underskirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Overskirt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Overskirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Overskirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Overskirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Overskirt Left Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12036",
+    "name": "Straight Gathered Tiered Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Straight Gathered Tiered Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Tier 1 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Tier 1 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Tier 1 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 2 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 2 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 3 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 3 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 3 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 3 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 3 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 2 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 2 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Tier 1 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Skirt Tier 1 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Tier 1 Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Tier 1 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Tier 1 Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Tier 1 Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Tier 2 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Tier 2 Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Tier 2 Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Skirt Tier 2 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Skirt Tier 3 Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Skirt Tier 3 Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 12,
+        "label": "Skirt Tier 3 Front"
+      },
+      {
+        "variant": 1,
+        "panel": 13,
+        "label": "Skirt Tier 3 Back"
+      },
+      {
+        "variant": 1,
+        "panel": 14,
+        "label": "Skirt Tier 3 Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 15,
+        "label": "Skirt Tier 3 Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 16,
+        "label": "Skirt Tier 2 Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 17,
+        "label": "Skirt Tier 2 Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12037",
+    "name": "Straight Long Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Back"
+      }
+    ]
+  },
+  {
+    "assetId": "12038",
+    "name": "Tiered Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Basque Tiered Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Belt Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Belt Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Belt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Belt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Belt Right "
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Belt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 01 Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 01 Front "
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 01 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 01 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 01 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Tier 01 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Tier 02 Back "
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Tier 02 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Tier 02 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Tier 02 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Tier 02 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Tier 02 Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Tier 03 Back "
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Tier 03 Front"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Tier 03 Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 21,
+        "label": "Skirt Tier 03 Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 22,
+        "label": "Skirt Tier 03 Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 23,
+        "label": "Skirt Tier 03 Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12039",
+    "name": "Train Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Train Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Train Back"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Train Front"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Train Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Train Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Train Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Train Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12040",
+    "name": "Tulip Hip Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Tulip Hip Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Hip Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Hip Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Hip Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Hip Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Hip Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Hip Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Hip Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Skirt Hip Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Bow Left"
+      },
+      {
+        "variant": 1,
+        "panel": 11,
+        "label": "Bow Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12041",
+    "name": "Twilight Hour Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Twilight Hour Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Back Left"
+      }
+    ]
+  },
+  {
+    "assetId": "12042",
+    "name": "Venus Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Venus Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12043",
+    "name": "Viper Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Viper Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Peplum Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Peplum Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Peplum Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Peplum Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Peplum Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Peplum Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Peplum Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 11,
+        "label": "Skirt Peplum Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 12,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 13,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 14,
+        "label": "Skirt Drop Waist Back"
+      },
+      {
+        "variant": 0,
+        "panel": 15,
+        "label": "Skirt Drop Waist Back Left"
+      },
+      {
+        "variant": 0,
+        "panel": 16,
+        "label": "Skirt Drop Waist Back Right"
+      },
+      {
+        "variant": 0,
+        "panel": 17,
+        "label": "Skirt Drop Waist Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 18,
+        "label": "Skirt Drop Waist Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 19,
+        "label": "Skirt Drop Waist Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 20,
+        "label": "Skirt Drop Waist Right Front"
+      }
+    ]
+  },
+  {
+    "assetId": "12044",
+    "name": "Waistcoat Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Waistcoat Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Peplum Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Skirt Peplum Back"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Peplum Right"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Peplum Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Peplum Left"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Frente da Saia"
+      }
+    ]
+  },
+  {
+    "assetId": "12045",
+    "name": "Waterfall Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Waterfall Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Front Left"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Front Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Right"
+      }
+    ]
+  },
+  {
+    "assetId": "12046",
+    "name": "Wavecrest Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Wavecrest Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 0,
+        "panel": 3,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 0,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 0,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 0,
+        "panel": 6,
+        "label": "Skirt Tier 1 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 7,
+        "label": "Skirt Tier 2 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 8,
+        "label": "Skirt Tier 3 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 9,
+        "label": "Skirt Tier 4 Right"
+      },
+      {
+        "variant": 0,
+        "panel": 10,
+        "label": "Skirt Tier 5 Right"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Frente da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left Back"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Left Front"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Right Back"
+      },
+      {
+        "variant": 1,
+        "panel": 5,
+        "label": "Skirt Right Front"
+      },
+      {
+        "variant": 1,
+        "panel": 6,
+        "label": "Skirt Tier 1 Left"
+      },
+      {
+        "variant": 1,
+        "panel": 7,
+        "label": "Skirt Tier 2 Left"
+      },
+      {
+        "variant": 1,
+        "panel": 8,
+        "label": "Skirt Tier 3 Left"
+      },
+      {
+        "variant": 1,
+        "panel": 9,
+        "label": "Skirt Tier 4 Left"
+      },
+      {
+        "variant": 1,
+        "panel": 10,
+        "label": "Skirt Tier 5 Left"
+      }
+    ]
+  },
+  {
+    "assetId": "12047",
+    "name": "Widow Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Widow Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "assetId": "12048",
+    "name": "Wrap Skirt",
+    "class": "SkirtDefinition",
+    "displayName": "Wrap Skirt",
+    "panels": [
+      {
+        "variant": 0,
+        "panel": 0,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 0,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 0,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 1,
+        "panel": 0,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 1,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 1,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 1,
+        "panel": 3,
+        "label": "Skirt Bow"
+      },
+      {
+        "variant": 1,
+        "panel": 4,
+        "label": "Skirt Waist Band"
+      },
+      {
+        "variant": 2,
+        "panel": 0,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 2,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 2,
+        "panel": 2,
+        "label": "Skirt Left"
+      },
+      {
+        "variant": 2,
+        "panel": 3,
+        "label": "Skirt Bow"
+      },
+      {
+        "variant": 2,
+        "panel": 4,
+        "label": "Skirt Waist Band"
+      },
+      {
+        "variant": 3,
+        "panel": 0,
+        "label": "Skirt Right"
+      },
+      {
+        "variant": 3,
+        "panel": 1,
+        "label": "Costas da Saia"
+      },
+      {
+        "variant": 3,
+        "panel": 2,
+        "label": "Skirt Left"
+      }
+    ]
+  }
+]
